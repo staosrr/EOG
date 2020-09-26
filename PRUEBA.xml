@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN.mx">
+    <display-name lang="es">AXN.mx</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Cinemax.mx">
+    <display-name lang="es">Cinemax.mx</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200926004500 -0500" stop="20200926014000 -0500" channel="AXN.mx">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20200926014000 -0500" stop="20200926023500 -0500" channel="AXN.mx">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20200926023500 -0500" stop="20200926032500 -0500" channel="AXN.mx">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20200926032500 -0500" stop="20200926041500 -0500" channel="AXN.mx">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20200926041500 -0500" stop="20200926050500 -0500" channel="AXN.mx">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20200926050500 -0500" stop="20200926060000 -0500" channel="AXN.mx">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20200926060000 -0500" stop="20200926070000 -0500" channel="AXN.mx">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20200926070000 -0500" stop="20200926080000 -0500" channel="AXN.mx">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20200926080000 -0500" stop="20200926090000 -0500" channel="AXN.mx">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20200926090000 -0500" stop="20200926100000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926100000 -0500" stop="20200926105000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926105000 -0500" stop="20200926114000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926114000 -0500" stop="20200926123000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926123000 -0500" stop="20200926132000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926132000 -0500" stop="20200926141000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926141000 -0500" stop="20200926150000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926150000 -0500" stop="20200926155000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926155000 -0500" stop="20200926164000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926164000 -0500" stop="20200926173000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926173000 -0500" stop="20200926182000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926182000 -0500" stop="20200926191500 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926191500 -0500" stop="20200926201000 -0500" channel="AXN.mx">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20200926201000 -0500" stop="20200926210500 -0500" channel="AXN.mx">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20200926210500 -0500" stop="20200926220000 -0500" channel="AXN.mx">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20200926220000 -0500" stop="20200927000000 -0500" channel="AXN.mx">
+    <title lang="es">Ex Machina</title>
+  </programme>
+  <programme start="20200926012800 -0500" stop="20200926031900 -0500" channel="Cinemax.mx">
+    <title lang="es">Sector 9</title>
+  </programme>
+  <programme start="20200926031900 -0500" stop="20200926044800 -0500" channel="Cinemax.mx">
+    <title lang="es">Terror en el campus</title>
+  </programme>
+  <programme start="20200926044800 -0500" stop="20200926063700 -0500" channel="Cinemax.mx">
+    <title lang="es">Una Familia Numerosa</title>
+  </programme>
+  <programme start="20200926063700 -0500" stop="20200926090100 -0500" channel="Cinemax.mx">
+    <title lang="es">Mejor... imposible</title>
+  </programme>
+  <programme start="20200926090100 -0500" stop="20200926105400 -0500" channel="Cinemax.mx">
+    <title lang="es">Loca por las compras</title>
+  </programme>
+  <programme start="20200926105400 -0500" stop="20200926124900 -0500" channel="Cinemax.mx">
+    <title lang="es">Rápido y Furioso</title>
+  </programme>
+  <programme start="20200926124900 -0500" stop="20200926144400 -0500" channel="Cinemax.mx">
+    <title lang="es">Más rápido más furioso</title>
+  </programme>
+  <programme start="20200926144400 -0500" stop="20200926164000 -0500" channel="Cinemax.mx">
+    <title lang="es">Rápido y furioso Reto Tokio</title>
+  </programme>
+  <programme start="20200926164000 -0500" stop="20200926183700 -0500" channel="Cinemax.mx">
+    <title lang="es">Rápidos y furiosos</title>
+  </programme>
+  <programme start="20200926183700 -0500" stop="20200926210000 -0500" channel="Cinemax.mx">
+    <title lang="es">Rápidos y Furiosos: 5in Control</title>
+  </programme>
+  <programme start="20200926210000 -0500" stop="20200926232200 -0500" channel="Cinemax.mx">
+    <title lang="es">Rápidos y Furiosos 6</title>
+  </programme>
+  <programme start="20200926232200 -0500" stop="20200927010900 -0500" channel="Cinemax.mx">
+    <title lang="es">La maldición de Charlie</title>
+  </programme>
+</tv>
